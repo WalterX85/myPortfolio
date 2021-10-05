@@ -4,11 +4,16 @@ $font-1: 'Nova Round', cursive;
 $font-2: 'Dosis', sans-serif;
 $font-3: 'Josefin Sans', sans-serif;
 
-$color-1: #2a1d52;
-$color-2: #6C77F4;
-$color-3: rgba(99, 164, 233, 0.5);
-$color-4: #4FEDD2;
-$color-5: #36D0EA;
+$color-1: #12052D;
+$color-2: #2A0A43;
+$color-3: #24105A;
+$color-4: #F43162;
+$color-5: #251E8A ;
+$color-11: #2a1d52;
+$color-12: #6C77F4;
+$color-13: rgba(99, 164, 233, 0.5);
+$color-14: #4FEDD2;
+$color-15: #36D0EA;
 $white: #ddd;
 $black: #333;
 
@@ -30,7 +35,7 @@ $minHeight: 95vh;
 
 body {
   margin: 1rem auto;
-  max-width: 1200px;
+  max-width: 1500px;
   font-family: $font-1;
   color: black;
 }

@@ -84,7 +84,6 @@
       display: flex;
       width: 264px;
       padding: 0 14px;
-      margin-left: 19px;
       justify-content: space-around;
 
       li {
@@ -110,6 +109,7 @@
       text-align: center;
       letter-spacing: 0.1rem;
       font-size: .7rem;
+      color:$color-5;
 
       a, a:visited {
         color: $color-5;
