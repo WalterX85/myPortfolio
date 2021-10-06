@@ -24,7 +24,7 @@ OtherSkills OtherSkills Hobbies
     h3 {
       font-size: 1.4rem;
       margin-bottom: 1rem;
-      font-family: $font-2;
+      font-family: $font-4;
       color: $color-4;
       text-transform: uppercase;
     }
@@ -121,8 +121,9 @@ OtherSkills OtherSkills Hobbies
         grid-area: 1;
       }
       h4 {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         color: $color-4;
+        font-family: $font-3;
       }
       h5 {
         color: aliceblue;
@@ -131,7 +132,7 @@ OtherSkills OtherSkills Hobbies
       p {
         text-align: justify;
         padding: 0 1rem;
-        color:aliceblue;
+        color:aliceblue;  
       }
       .exp-1 {
         grid-area: 2;

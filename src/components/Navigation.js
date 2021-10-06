@@ -9,7 +9,7 @@ function Navigation() {
     <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img src="./media/cg.png" alt="profil-pic"/>
+          <img src="./media/cedd.jpeg" alt="profil-pic"/>
           <h3>Cedric Guyot</h3>
         </div>
       </div>
