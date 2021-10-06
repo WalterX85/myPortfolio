@@ -29,7 +29,7 @@
 
       img {
         border-radius: 50%;
-        box-shadow: 0 0 0 4px $color-3, 0 0 0 8px aliceblue, 0 0 0 12px $color-4;
+        box-shadow: 0 0 0 4px $color-1, 3px 6px 20px 6px $color-4;
         width: 160px;
       }
       h3 {
@@ -37,7 +37,8 @@
         text-transform: uppercase;
         letter-spacing: .1rem;
         margin-top: 1.5rem;
-        color: aliceblue;
+        color: $color-4;
+        text-shadow: 3px 6px 2px $color-3;
       }
     }
   }
@@ -109,7 +110,8 @@
       text-align: center;
       letter-spacing: 0.1rem;
       font-size: .7rem;
-      color:aliceblue;
+      color: $color-4;
+      text-shadow: 3px 3px 1px $color-3;
 
       a, a:visited {
         color: $color-5;
