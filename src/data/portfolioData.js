@@ -22,8 +22,8 @@ export const portfolioData = [
   {
     id: 3,
     name: 'Quizz',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    languages: ['javascript'],
+    languagesIcons: ['fab fa-js'],
     source: 'http://www.github.com',
     info: "Le quizz est un exercice interessant lorsque l'on débute en programmation. En javascript pur, il y a une grosse manipulation du DOM qu'il est toujours bon de revoir lorsque l'on passe un peu trop de temps sur React. :p",
     picture: './media/quizz.png'
@@ -34,7 +34,7 @@ export const portfolioData = [
     languages: ['javascript'],
     languagesIcons: ['fab fa-js'],
     source: 'http://www.github.com',
-    info: "Mon tout premier jeu. J'ai conscience que ça ne casse pas 3 pattes à un canard dans un portfolio mais le coeur a ses raisons que la raison ignore.",
+    info: "Mon tout premier jeu! J'ai conscience que ça ne casse pas 3 pattes à un canard dans un portfolio mais que voulez-vous?!! Le coeur a ses raisons que la raison ignore.",
     picture: './media/game.png'
   },
   {
@@ -74,12 +74,12 @@ export const portfolioData = [
   picture: './media/ny.png'
   },
   {
-  id: 9,
-  name: 'test.io',
-  languages: ['javascript','react', 'css'],
-  languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-  source: 'http://www.github.com',
-  info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-  picture: './media/project6.JPG'
-  },
+    id: 9,
+    name: 'Signup',
+    languages: ['css'],
+    languagesIcons: ['fab fa-css3-alt'],
+    source: 'http://www.github.com',
+    info: "Réalisation d'un formulaire d'inscription",
+    picture: './media/signup.png'
+    },
 ]
