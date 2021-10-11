@@ -78,8 +78,17 @@ export const portfolioData = [
   name: 'Signup',
   languages: ['css'],
   languagesIcons: ['fab fa-css3-alt'],
-  source: 'http://www.github.com',
+  source: 'https://github.com/WalterX85/CSS-Training/tree/main/Signup',
   info: "Réalisation d'un formulaire d'inscription",
   picture: './media/signup.png'
+  },
+  {
+  id: 10,
+  name: "Wild Code'tails",
+  languages: ['react'],
+  languagesIcons: ['fab fa-react'],
+  source: 'https://wildcodeschool.github.io/reims-js-2103-project2-wild-code-tails/',
+  info: "Le wild code'tails est le seçond projet de ma formation mais aussi mon tout premier projet React! Avec les copains nous imaginons plusieurs fonctionnalités comme la recherche, le filtre ou les favoris pour exploiter l'API TheCocktailsDB.com. Un projet très formateur.",
+  picture: './media/wct.png'
   },
 ]
