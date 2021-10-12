@@ -39,7 +39,7 @@ export const portfolioData = [
   },
   {
     id: 5,
-    name: 'Authentification Firebase',
+    name: 'Auth Firebase',
     languages: ['javascript'],
     languagesIcons: ['fab fa-js'],
     source: "https://github.com/WalterX85/Vanilla-JS-Projects/tree/main/Syst%C3%A8me-d'Authentification-Firebase",
