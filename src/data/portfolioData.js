@@ -91,4 +91,13 @@ export const portfolioData = [
   info: "Le wild code'tails est le seçond projet de ma formation mais aussi mon tout premier projet React! Avec les copains nous imaginons plusieurs fonctionnalités comme la recherche, le filtre ou les favoris pour exploiter l'API TheCocktailsDB.com. Un projet très formateur.",
   picture: './media/wct.png'
   },
+  {
+  id: 10,
+  name: "Web page",
+  languages: ['css'],
+  languagesIcons: ['fab fa-css3-alt'],
+  source: 'https://github.com/WalterX85/CSS-Training/tree/main/Web%20page%20photographe',
+  info: "Conception d'un site photo one page. #responsive #javascript #parralax #flex",
+  picture: './media/webpage.png'
+  },
 ]
