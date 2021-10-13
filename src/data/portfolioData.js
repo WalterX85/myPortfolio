@@ -92,12 +92,21 @@ export const portfolioData = [
   picture: './media/wct.png'
   },
   {
-  id: 10,
+  id: 11,
   name: "Web page",
   languages: ['css'],
   languagesIcons: ['fab fa-css3-alt'],
   source: 'https://github.com/WalterX85/CSS-Training/tree/main/Web%20page%20photographe',
   info: "Conception d'un site photo one page. #responsive #javascript #parralax #flex",
   picture: './media/webpage.png'
+  },
+  {
+  id: 12,
+  name: 'CRUD Firebase9.1.2',
+  languages: ['javascript'],
+  languagesIcons: ['fab fa-js'],
+  source: 'https://github.com/WalterX85/Vanilla-JS-Projects/tree/main/CRUD%20Firebase9.1.2',
+  info: "Création d'un outil d'administration CRUD avec firebase",
+  picture: './media/crudfire.png'
   },
 ]
