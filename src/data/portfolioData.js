@@ -109,4 +109,13 @@ export const portfolioData = [
   info: "Création d'un outil d'administration CRUD avec firebase",
   picture: './media/crudfire.png'
   },
+  {
+  id: 13,
+  name: "Formulaire Contact",
+  languages: ['react'],
+  languagesIcons: ['fab fa-react'],
+  source: 'https://github.com/WalterX85/Formulaire-fonctionnel',
+  info: "Création d'un formulaire fonctionnel sans serveur local grace a l'utilisation du service EmailJs. Ajout de conditions de saisie utilisateur.   #react ",
+  picture: './media/formulair.png'
+  },
 ]
